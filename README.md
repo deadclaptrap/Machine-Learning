@@ -1,2 +1,2 @@
-# Machine-Learning and data analisys
+# Machine-Learning and data analysis
 ML projects 
